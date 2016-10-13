@@ -1,0 +1,9 @@
+C:\Users\Erwin.Nico\Desktop\Selasa_141110124_Erwin\Latihan_1_2\bin\Debug\Latihan_1_2.exe.config
+C:\Users\Erwin.Nico\Desktop\Selasa_141110124_Erwin\Latihan_1_2\obj\Debug\Latihan_1_2.exe
+C:\Users\Erwin.Nico\Desktop\Selasa_141110124_Erwin\Latihan_1_2\obj\Debug\Latihan_1_2.pdb
+C:\Users\Erwin.Nico\Desktop\Selasa_141110124_Erwin\Latihan_1_2\bin\Debug\Latihan_1_2.exe
+C:\Users\Erwin.Nico\Desktop\Selasa_141110124_Erwin\Latihan_1_2\bin\Debug\Latihan_1_2.pdb
+C:\Users\Erwin.Nico\Desktop\Selasa_141110124_Erwin\Latihan_1_2\obj\Debug\Latihan_1_2.csprojResolveAssemblyReference.cache
+C:\Users\Erwin.Nico\Desktop\Selasa_141110124_Erwin\Latihan_1_2\obj\Debug\Latihan_1_2.Form1.resources
+C:\Users\Erwin.Nico\Desktop\Selasa_141110124_Erwin\Latihan_1_2\obj\Debug\Latihan_1_2.Properties.Resources.resources
+C:\Users\Erwin.Nico\Desktop\Selasa_141110124_Erwin\Latihan_1_2\obj\Debug\Latihan_1_2.csproj.GenerateResource.Cache
