@@ -1,0 +1,9 @@
+C:\Users\Erwin.Nico\Desktop\Selasa_141110124_Erwin\Volleyball_Problem\bin\Debug\Volleyball_Problem.exe.config
+C:\Users\Erwin.Nico\Desktop\Selasa_141110124_Erwin\Volleyball_Problem\obj\Debug\Volleyball_Problem.csprojResolveAssemblyReference.cache
+C:\Users\Erwin.Nico\Desktop\Selasa_141110124_Erwin\Volleyball_Problem\obj\Debug\Volleyball_Problem.Form1.resources
+C:\Users\Erwin.Nico\Desktop\Selasa_141110124_Erwin\Volleyball_Problem\obj\Debug\Volleyball_Problem.Properties.Resources.resources
+C:\Users\Erwin.Nico\Desktop\Selasa_141110124_Erwin\Volleyball_Problem\obj\Debug\Volleyball_Problem.csproj.GenerateResource.Cache
+C:\Users\Erwin.Nico\Desktop\Selasa_141110124_Erwin\Volleyball_Problem\bin\Debug\Volleyball_Problem.exe
+C:\Users\Erwin.Nico\Desktop\Selasa_141110124_Erwin\Volleyball_Problem\bin\Debug\Volleyball_Problem.pdb
+C:\Users\Erwin.Nico\Desktop\Selasa_141110124_Erwin\Volleyball_Problem\obj\Debug\Volleyball_Problem.exe
+C:\Users\Erwin.Nico\Desktop\Selasa_141110124_Erwin\Volleyball_Problem\obj\Debug\Volleyball_Problem.pdb
